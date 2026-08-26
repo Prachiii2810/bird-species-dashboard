@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+plotly
+sqlalchemy
+
+print("✅ requirements.txt created!")
